@@ -11,6 +11,5 @@ Preguntas de reflexión:
 
 ¿Cómo podrías usar esta funcionalidad en un proyecto real (por ejemplo, para exportar datos de una aplicación)?: En una base de datos de una institución, en donde se requiera exportar la información de todos los estudiantes matriculados con sus nombres, edades y su curso matriculado.
 
-# -----------------------------------------------------------------------------------
 
 En esta imagen puede encontrar la evidencia de la lectura de los datos en consola: ![image](https://github.com/user-attachments/assets/ff8066af-c3d9-41d7-ae16-f2b534a6072d).
